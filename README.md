@@ -1,6 +1,12 @@
 # Introdução
 Webservice que implementa e exemplifica o problema a ser resolvido.
 
+# Como rodar
+
+```python
+python manager.py runserver
+```
+
 # Conteúdo utilizado para construir
 
 1. [Django Girls](https://tutorial.djangogirls.org/pt/)
